@@ -1,11 +1,11 @@
 #title {
     text-align: center;
-    color: rgb(71, 147, 247);
 }
 
 #subTitle {
     text-align: center;
     color: darkgrey;
+    background-color: blue;
 }
 
 .customeImage {
